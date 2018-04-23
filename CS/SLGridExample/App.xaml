@@ -1,0 +1,7 @@
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             x:Class="SLGridExample.App" xmlns:my="clr-namespace:System;assembly=mscorlib">
+    <Application.Resources>
+    <my:String x:Key="DevExpress.Xpf.License">E7-6C-39-5C-00-29-2F-F9-D8-34-86-C4-D6-3E-FF-FA-F4-7D-80-7E</my:String>
+  </Application.Resources>
+</Application>
