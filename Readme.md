@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/SLGridExample/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/SLGridExample/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/SLGridExample/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SLGridExample/MainPage.xaml.vb))
+* [VisibleRowsCountHelper.cs](./CS/SLGridExample/VisibleRowsCountHelper.cs) (VB: [VisibleRowsCountHelper.vb](./VB/SLGridExample/VisibleRowsCountHelper.vb))
+<!-- default file list end -->
 # How to display the "No data found" text when DXGrid doesn't show any record
 
 
