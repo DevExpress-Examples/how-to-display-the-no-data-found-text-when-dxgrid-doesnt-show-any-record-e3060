@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/SLGridExample/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/SLGridExample/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/SLGridExample/MainPage.xaml) (VB: [MainPage.xaml](./VB/SLGridExample/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/SLGridExample/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SLGridExample/MainPage.xaml.vb))
 * [VisibleRowsCountHelper.cs](./CS/SLGridExample/VisibleRowsCountHelper.cs) (VB: [VisibleRowsCountHelper.vb](./VB/SLGridExample/VisibleRowsCountHelper.vb))
 <!-- default file list end -->
