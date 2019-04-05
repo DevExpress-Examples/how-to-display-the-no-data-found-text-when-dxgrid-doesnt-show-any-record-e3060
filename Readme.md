@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/EmptyGridTemplate/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/EmptyGridTemplate/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/EmptyGridTemplate/MainPage.xaml) (VB: [MainPage.xaml](./VB/EmptyGridTemplate/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/EmptyGridTemplate/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/EmptyGridTemplate/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to display the "No data found" text when DXGrid doesn't show any record
